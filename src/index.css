@@ -225,3 +225,9 @@ textarea:focus,
 input:focus {
   box-shadow: 0 0 5px rgba(90, 88, 68, 0.853);
 }
+
+@media (min-width: 768px) {
+  .modal__content {
+    font-size: 16px;
+  }
+}
