@@ -149,6 +149,7 @@ a {
   transform: scale(0);
   /* background-color: rgba(0, 0, 0, 0.6); */
   backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
   transition: transform 0.2s;
 }
 
@@ -162,7 +163,8 @@ a {
   border-radius: 12px;
   overflow: hidden;
 
-  width: 400px;
+  width: 380px;
+  margin: 0 10px;
 
   font-size: 18px;
 

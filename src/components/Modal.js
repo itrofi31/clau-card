@@ -33,7 +33,9 @@ export default function Modal({ open, onOpenModal }) {
 
       if (res.success) {
         console.log('Success', res);
+        alert('Мы скоро с вами свяжемся, спасибо!');
       } else {
+        alert('Что-то не так');
         throw new Error('Something went wrong');
       }
     } catch (err) {
