@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/clau-card/static/css/main.dfd5f7fd.css",
-    "main.js": "/clau-card/static/js/main.ea5899bc.js",
+    "main.css": "/clau-card/static/css/main.2aeaa69a.css",
+    "main.js": "/clau-card/static/js/main.8f5ef5a0.js",
     "index.html": "/clau-card/index.html",
-    "main.dfd5f7fd.css.map": "/clau-card/static/css/main.dfd5f7fd.css.map",
-    "main.ea5899bc.js.map": "/clau-card/static/js/main.ea5899bc.js.map"
+    "main.2aeaa69a.css.map": "/clau-card/static/css/main.2aeaa69a.css.map",
+    "main.8f5ef5a0.js.map": "/clau-card/static/js/main.8f5ef5a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfd5f7fd.css",
-    "static/js/main.ea5899bc.js"
+    "static/css/main.2aeaa69a.css",
+    "static/js/main.8f5ef5a0.js"
   ]
 }
